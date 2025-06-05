@@ -45,14 +45,14 @@ Automating workflows, optimizing CI/CD pipelines, and delivering robust, scalabl
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Splunk_logo.svg" alt="Splunk" width="40" height="40"/>
 </p>
 
-- **DevOps & Automation:** Linux · Jenkins · Git · GitHub · CI/CD · Build Tools · Nexus · SonarQube  
-- **Cloud (AWS):** EC2 · S3 · VPC · Auto Scaling · Load Balancer · RDS · SNS · CloudWatch · CloudShell · Elastic Beanstalk · EKS · EFS · IAM · CodePipeline  
-- **Containerization:** Docker · Kubernetes  
-- **Infrastructure as Code & GitOps:** Terraform · ArgoCD  
-- **Security:** Trivy · OWASP  
-- **Monitoring & Observability:** Prometheus · Grafana · Splunk  
-- **Databases:** MySQL · RDBMS  
-- **Networking:** OSI Layers · Transport Layer · UDP  
+- **DevOps & Automation:** Linux · Jenkins · Git · GitHub · CI/CD · Build Tools · Nexus · SonarQube
+- **Cloud (AWS):** EC2 · S3 · VPC · Auto Scaling · Load Balancer · RDS · SNS · CloudWatch · CloudShell · Elastic Beanstalk · EKS · EFS · IAM · CodePipeline
+- **Containerization:** Docker · Kubernetes
+- **Infrastructure as Code & GitOps:** Terraform · ArgoCD
+- **Security:** Trivy · OWASP
+- **Monitoring & Observability:** Prometheus · Grafana · Splunk
+- **Databases:** MySQL · RDBMS
+- **Networking:** OSI Layers · Transport Layer · UDP
 - **Communication:** Slack
 
 ---
@@ -63,13 +63,6 @@ Automating workflows, optimizing CI/CD pipelines, and delivering robust, scalabl
 - 👨‍🏫 **Trainer & Mentor**: Taught Core Java and MySQL to students; delivered DevOps training for aspiring engineers.
 - 🚀 **DevOps Engineer**: Built, automated, and maintained CI/CD pipelines and cloud-native infrastructure for modern applications.
 - 🤝 **Collaborator**: Strong advocate for DevOps culture and cross-functional teamwork.
-
----
-
-## 📚 Certifications
-
-- AWS Certified Solutions Architect (Associate) *(if applicable)*
-- Jenkins, Docker, or Kubernetes certifications *(add yours)*
 
 ---
 
@@ -98,8 +91,8 @@ Automating workflows, optimizing CI/CD pipelines, and delivering robust, scalabl
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/sanjaykumar-palleboina)  
-✉️ Email: sanjaysanjy.6223@gmail.com  
-✉️ Alternate Email: palleboinasanjaykumar@gmail.com
+✉️ Email: palleboinasanjaykumar@gmail.com  
+✉️ Alternate Email: sanjaysanju.6223@gmail.com
 
 ---
 
