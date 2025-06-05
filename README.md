@@ -11,7 +11,6 @@ Automating workflows, optimizing CI/CD pipelines, and delivering robust, scalabl
 ## 🚀 Skills & Tools
 
 <p align="left">
-  <!-- OS & DevOps -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
@@ -45,15 +44,27 @@ Automating workflows, optimizing CI/CD pipelines, and delivering robust, scalabl
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Splunk_logo.svg" alt="Splunk" width="40" height="40"/>
 </p>
 
-- **DevOps & Automation:** Linux · Jenkins · Git · GitHub · CI/CD · Build Tools · Nexus · SonarQube
-- **Cloud (AWS):** EC2 · S3 · VPC · Auto Scaling · Load Balancer · RDS · SNS · CloudWatch · CloudShell · Elastic Beanstalk · EKS · EFS · IAM · CodePipeline
-- **Containerization:** Docker · Kubernetes
-- **Infrastructure as Code & GitOps:** Terraform · ArgoCD
-- **Security:** Trivy · OWASP
-- **Monitoring & Observability:** Prometheus · Grafana · Splunk
-- **Databases:** MySQL · RDBMS
-- **Networking:** OSI Layers · Transport Layer · UDP
+- **DevOps & Automation:** Linux · Jenkins · Git · GitHub · CI/CD · Build Tools · Nexus · SonarQube  
+- **Cloud (AWS):** EC2 · S3 · VPC · Auto Scaling · Load Balancer · RDS · SNS · CloudWatch · CloudShell · Elastic Beanstalk · EKS · EFS · IAM · CodePipeline  
+- **Containerization:** Docker · Kubernetes  
+- **Infrastructure as Code & GitOps:** Terraform · ArgoCD  
+- **Security:** Trivy · OWASP  
+- **Monitoring & Observability:** Prometheus · Grafana · Splunk  
+- **Databases:** MySQL · RDBMS  
+- **Networking:** OSI Layers · Transport Layer · UDP  
 - **Communication:** Slack
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjaypkumar&theme=tokyonight&hide_border=true" alt="sanjaypkumar's streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjaypkumar&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 
 ---
 
@@ -63,6 +74,13 @@ Automating workflows, optimizing CI/CD pipelines, and delivering robust, scalabl
 - 👨‍🏫 **Trainer & Mentor**: Taught Core Java and MySQL to students; delivered DevOps training for aspiring engineers.
 - 🚀 **DevOps Engineer**: Built, automated, and maintained CI/CD pipelines and cloud-native infrastructure for modern applications.
 - 🤝 **Collaborator**: Strong advocate for DevOps culture and cross-functional teamwork.
+
+---
+
+## 📚 Certifications
+
+- AWS Certified Solutions Architect (Associate) *(if applicable)*
+- Jenkins, Docker, or Kubernetes certifications *(add yours)*
 
 ---
 
@@ -91,8 +109,8 @@ Automating workflows, optimizing CI/CD pipelines, and delivering robust, scalabl
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/sanjaykumar-palleboina)  
-✉️ Email: palleboinasanjaykumar@gmail.com  
-✉️ Alternate Email: sanjaysanju.6223@gmail.com
+✉️ Email: sanjaysanjy.6223@gmail.com  
+✉️ Alternate Email: palleboinasanjaykumar@gmail.com
 
 ---
 
