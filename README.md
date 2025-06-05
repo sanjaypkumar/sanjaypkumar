@@ -14,12 +14,16 @@ Automating workflows, optimizing CI/CD pipelines, and delivering robust, scalabl
 
 <p align="left">
   <a href="https://www.linux.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></a>
+  <a href="https://ubuntu.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" width="40" height="40"/></a>
   <a href="https://www.jenkins.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="40" height="40"/></a>
   <a href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/></a>
   <a href="https://github.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/></a>
   <a href="https://www.sonarqube.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/sonarqube/sonarqube-icon.svg" alt="SonarQube" width="40" height="40"/></a>
   <a href="https://www.docker.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/></a>
+  <a href="https://hub.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/docker/hub-feedback/master/logo.png" alt="DockerHub" width="40" height="40"/></a>
   <a href="https://kubernetes.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40"/></a>
+  <a href="https://helm.sh/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/helm/helm-original.svg" alt="Helm" width="40" height="40"/></a>
+  <a href="https://www.ansible.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" alt="Ansible" width="40" height="40"/></a>
   <a href="https://prometheus.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" alt="Prometheus" width="40" height="40"/></a>
   <a href="https://grafana.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" alt="Grafana" width="40" height="40"/></a>
   <a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/></a>
@@ -28,19 +32,31 @@ Automating workflows, optimizing CI/CD pipelines, and delivering robust, scalabl
   <a href="https://argoproj.github.io/argo-cd/" target="_blank"><img src="https://raw.githubusercontent.com/cncf/artwork/main/projects/argo/icon/color/argo-icon-color.png" alt="ArgoCD" width="40" height="40"/></a>
   <a href="https://aquasecurity.github.io/trivy/" target="_blank"><img src="https://raw.githubusercontent.com/aquasecurity/trivy/main/docs/images/logo.png" alt="Trivy" width="40" height="40"/></a>
   <a href="https://owasp.org/" target="_blank"><img src="https://raw.githubusercontent.com/OWASP/owasp-swag/master/assets/logos/owasp-logo.png" alt="OWASP" width="40" height="40"/></a>
+  <a href="https://nginx.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="Nginx" width="40" height="40"/></a>
+  <a href="https://httpd.apache.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" alt="Apache HTTPD" width="40" height="40"/></a>
+  <a href="https://tomcat.apache.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" alt="Apache Tomcat" width="40" height="40"/></a>
+  <a href="https://www.npmjs.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/></a>
+  <a href="https://www.python.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
   <a href="https://slack.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" alt="Slack" width="40" height="40"/></a>
   <a href="https://www.splunk.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Splunk_logo.svg" alt="Splunk" width="40" height="40"/></a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Shell Scripting" width="40" height="40"/></a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/></a>
+  <a href="https://en.wikipedia.org/wiki/Shell_script" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Shell Scripting" width="40" height="40"/></a>
+  <a href="https://www.eclipse.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" alt="Eclipse" width="40" height="40"/></a>
+  <a href="https://maven.apache.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachemaven/apachemaven-original-wordmark.svg" alt="Maven" width="40" height="40"/></a>
+  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/></a>
 </p>
 
-- **DevOps & Automation:** Linux · Jenkins · Git · GitHub · CI/CD · Build Tools · Nexus · SonarQube  
+- **DevOps & Automation:** Linux · Ubuntu · Jenkins · Git · GitHub · CI/CD · Build Tools · Nexus · SonarQube  
 - **Cloud (AWS):** EC2 · S3 · VPC · Auto Scaling · Load Balancer · RDS · SNS · CloudWatch · CloudShell · Elastic Beanstalk · EKS · EFS · IAM · CodePipeline  
-- **Containerization:** Docker · Kubernetes  
+- **Containerization:** Docker · DockerHub · Kubernetes · Helm  
+- **Configuration Management:** Ansible  
 - **Infrastructure as Code & GitOps:** Terraform · ArgoCD  
 - **Security:** Trivy · OWASP  
+- **Web Servers:** NGINX · Apache HTTPD · Apache Tomcat  
 - **Monitoring & Observability:** Prometheus · Grafana · Splunk  
 - **Databases:** MySQL · RDBMS  
-- **Scripting:** Shell Scripting  
+- **Programming & Scripting:** Python · Bash · Shell Scripting  
+- **Package Manager & Tools:** npm · Eclipse · Maven · VSCode  
 - **Networking:** OSI Layers · Transport Layer · UDP  
 - **Communication:** Slack
 
@@ -86,6 +102,8 @@ Automating workflows, optimizing CI/CD pipelines, and delivering robust, scalabl
 - 💡 Passionate about automating the cloud and enabling seamless deployments
 - 🛠 Experienced in building, deploying, and monitoring modern applications
 - 🎮 Love playing cricket, chess, and badminton in my free time
+- 🌍 Thrive in multicultural, collaborative environments and enjoy mentoring others
+- 📚 Always eager to learn new technologies and stay updated with industry trends
 
 ---
 
