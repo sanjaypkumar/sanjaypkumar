@@ -1,4 +1,6 @@
-![DevOps Engineer Banner](assets/devops-banner.png)
+<p align="center">
+  <img src="https://assets.techrepublic.com/uploads/2023/10/tr_20231018-devops-engineer-roles-and-responsibilities.png" alt="DevOps Engineer Banner" width="200"/>
+</p>
 
 # 👋 Hi, I'm Sanjay Kumar Palleboina
 
@@ -42,6 +44,7 @@ Automating workflows, optimizing CI/CD pipelines, and delivering robust, scalabl
   <img src="https://raw.githubusercontent.com/OWASP/owasp-swag/master/assets/logos/owasp-logo.png" alt="OWASP" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" alt="Slack" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Splunk_logo.svg" alt="Splunk" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Shell Scripting" width="40" height="40"/>
 </p>
 
 - **DevOps & Automation:** Linux · Jenkins · Git · GitHub · CI/CD · Build Tools · Nexus · SonarQube  
@@ -51,6 +54,7 @@ Automating workflows, optimizing CI/CD pipelines, and delivering robust, scalabl
 - **Security:** Trivy · OWASP  
 - **Monitoring & Observability:** Prometheus · Grafana · Splunk  
 - **Databases:** MySQL · RDBMS  
+- **Scripting:** Shell Scripting  
 - **Networking:** OSI Layers · Transport Layer · UDP  
 - **Communication:** Slack
 
@@ -74,13 +78,6 @@ Automating workflows, optimizing CI/CD pipelines, and delivering robust, scalabl
 - 👨‍🏫 **Trainer & Mentor**: Taught Core Java and MySQL to students; delivered DevOps training for aspiring engineers.
 - 🚀 **DevOps Engineer**: Built, automated, and maintained CI/CD pipelines and cloud-native infrastructure for modern applications.
 - 🤝 **Collaborator**: Strong advocate for DevOps culture and cross-functional teamwork.
-
----
-
-## 📚 Certifications
-
-- AWS Certified Solutions Architect (Associate) *(if applicable)*
-- Jenkins, Docker, or Kubernetes certifications *(add yours)*
 
 ---
 
@@ -108,9 +105,24 @@ Automating workflows, optimizing CI/CD pipelines, and delivering robust, scalabl
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/sanjaykumar-palleboina)  
-✉️ Email: sanjaysanjy.6223@gmail.com  
-✉️ Alternate Email: palleboinasanjaykumar@gmail.com
+<p>
+  <a href="mailto:palleboinasanjaykumar@gmail.com">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="Gmail" width="30" height="30"/>
+    palleboinasanjaykumar@gmail.com
+  </a>
+</p>
+<p>
+  <a href="mailto:sanjaysanju.6223@gmail.com">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="Gmail" width="30" height="30"/>
+    sanjaysanju.6223@gmail.com
+  </a>
+</p>
+<p>
+  <a href="https://www.linkedin.com/in/sanjaykumar-palleboina">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30"/>
+    LinkedIn
+  </a>
+</p>
 
 ---
 
