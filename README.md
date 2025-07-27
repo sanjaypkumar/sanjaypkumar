@@ -46,9 +46,9 @@ Automating workflows, optimizing CI/CD pipelines, and delivering robust, scalabl
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/></a>
 </p>
 
-- **DevOps & Automation:** Linux · Ubuntu · Jenkins · Git · GitHub · CI/CD · Build Tools · Nexus · SonarQube  
-- **Cloud (AWS):** EC2 · S3 · VPC · Auto Scaling · Load Balancer · RDS · SNS · CloudWatch · CloudShell · Elastic Beanstalk · EKS · EFS · IAM · CodePipeline . MangoDB . SQS . Cloudfront . Subnets . ECR . Lambda . Security Group
-- **Containerization:** Docker · DockerHub · Kubernetes · Helm  
+- **DevOps & Automation:** Linux · Ubuntu · Jenkins · Git · GitHub · CI/CD · Build Tools · Nexus · SonarQube  . GitLab CI/CD
+- **Cloud (AWS):** EC2 · S3 · VPC · Auto Scaling · Load Balancer · RDS · SNS · CloudWatch · CloudShell · Elastic Beanstalk · EKS · EFS · IAM · CodePipeline . MangoDB . SQS . Cloudfront . Subnets . ECR . Lambda . Security Groups
+- **Containerization:** Docker · DockerHub · Kubernetes · Helm  . ArgoCD
 - **Configuration Management:** Ansible  
 - **Infrastructure as Code & GitOps:** Terraform · ArgoCD  
 - **Security:** Trivy · OWASP  
