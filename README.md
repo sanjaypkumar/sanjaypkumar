@@ -30,8 +30,20 @@ Automating workflows, optimizing CI/CD pipelines, and delivering robust, scalabl
   <a href="https://aws.amazon.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40"/></a>
   <a href="https://www.terraform.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="Terraform" width="40" height="40"/></a>
   <a href="https://argoproj.github.io/argo-cd/" target="_blank"><img src="https://raw.githubusercontent.com/cncf/artwork/main/projects/argo/icon/color/argo-icon-color.png" alt="ArgoCD" width="40" height="40"/></a>
-  <a href="https://aquasecurity.github.io/trivy/" target="_blank"><img src="https://raw.githubusercontent.com/aquasecurity/trivy/main/docs/images/logo.png" alt="Trivy
-</a>
+  <a href="https://aquasecurity.github.io/trivy/" target="_blank"><img src="https://raw.githubusercontent.com/aquasecurity/trivy/main/docs/images/logo.png" alt="Trivy" width="40" height="40"/></a>
+  <a href="https://owasp.org/" target="_blank"><img src="https://raw.githubusercontent.com/OWASP/owasp-swag/master/assets/logos/owasp-logo.png" alt="OWASP" width="40" height="40"/></a>
+  <a href="https://nginx.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="Nginx" width="40" height="40"/></a>
+  <a href="https://httpd.apache.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" alt="Apache HTTPD" width="40" height="40"/></a>
+  <a href="https://tomcat.apache.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" alt="Apache Tomcat" width="40" height="40"/></a>
+  <a href="https://www.npmjs.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/></a>
+  <a href="https://www.python.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
+  <a href="https://slack.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" alt="Slack" width="40" height="40"/></a>
+  <a href="https://www.splunk.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Splunk_logo.svg" alt="Splunk" width="40" height="40"/></a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/></a>
+  <a href="https://en.wikipedia.org/wiki/Shell_script" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Shell Scripting" width="40" height="40"/></a>
+  <a href="https://www.eclipse.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" alt="Eclipse" width="40" height="40"/></a>
+  <a href="https://maven.apache.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachemaven/apachemaven-original-wordmark.svg" alt="Maven" width="40" height="40"/></a>
+  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/></a>
 </p>
 
 - **DevOps & Automation:** Linux · Ubuntu · Jenkins · Git · GitHub · CI/CD · Build Tools · Nexus · SonarQube  . GitLab CI/CD
