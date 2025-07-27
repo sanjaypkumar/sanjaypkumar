@@ -47,14 +47,14 @@ Automating workflows, optimizing CI/CD pipelines, and delivering robust, scalabl
 </p>
 
 - **DevOps & Automation:** Linux · Ubuntu · Jenkins · Git · GitHub · CI/CD · Build Tools · Nexus · SonarQube  
-- **Cloud (AWS):** EC2 · S3 · VPC · Auto Scaling · Load Balancer · RDS · SNS · CloudWatch · CloudShell · Elastic Beanstalk · EKS · EFS · IAM · CodePipeline  
+- **Cloud (AWS):** EC2 · S3 · VPC · Auto Scaling · Load Balancer · RDS · SNS · CloudWatch · CloudShell · Elastic Beanstalk · EKS · EFS · IAM · CodePipeline  >MMangoDB . SQS . Cloudfront . Subnets . ECR . Lambda . Security Group
 - **Containerization:** Docker · DockerHub · Kubernetes · Helm  
 - **Configuration Management:** Ansible  
 - **Infrastructure as Code & GitOps:** Terraform · ArgoCD  
 - **Security:** Trivy · OWASP  
 - **Web Servers:** NGINX · Apache HTTPD · Apache Tomcat  
 - **Monitoring & Observability:** Prometheus · Grafana · Splunk  
-- **Databases:** MySQL · RDBMS  
+- **Databases:** MySQL · RDBMS  . MangoDB
 - **Programming & Scripting:** Python · Bash · Shell Scripting  
 - **Package Manager & Tools:** npm · Eclipse · Maven · VSCode  
 - **Networking:** OSI Layers · Transport Layer · UDP  
